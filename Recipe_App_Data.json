@@ -1,0 +1,1180 @@
+[{
+    "id": 3,
+    "name": "Desserts",
+    "filters": {
+      "preparation_time": ["<15 minutes", "15-30 minutes", "30+ minutes"],
+      "difficulty": ["Easy", "Medium", "Hard"],
+      "dietary": ["Vegetarian", "Vegan", "Gluten-Free"],
+      "allergens": ["Dairy-Free", "Nut-Free", "Egg-Free"]
+    },
+    "recipes": [
+      {
+        "id": 301,
+        "name": "Chocolate Lava Cake",
+        "image": "https://example.com/images/chocolate_lava_cake.jpg",
+        "description": "A decadent molten chocolate dessert with a gooey center.",
+        "ingredients": [
+          {"name": "Dark chocolate", "quantity": "200g", "description": "Chopped"},
+          {"name": "Butter", "quantity": "100g", "description": "Unsalted"},
+          {"name": "Eggs", "quantity": "2", "description": "Large"},
+          {"name": "Sugar", "quantity": "1/2 cup", "description": "Granulated"},
+          {"name": "Flour", "quantity": "1/4 cup", "description": "All-purpose"}
+        ],
+        "instructions": [
+          "Preheat oven to 200°C (400°F) and grease ramekins.",
+          "Melt chocolate and butter together in a bowl over boiling water.",
+          "Whisk eggs and sugar in another bowl until fluffy.",
+          "Fold the melted chocolate mixture into the eggs.",
+          "Gently stir in the flour until combined.",
+          "Pour batter into ramekins and bake for 12 minutes.",
+          "Serve immediately for a molten center."
+        ],
+        "preparation_time": "15 minutes",
+        "cooking_time": "12 minutes",
+        "total_time": "27 minutes",
+        "difficulty": "Medium",
+        "serving_size": "4",
+        "nutritional_info": {
+          "calories": "320 kcal per serving",
+          "fat": "18g",
+          "carbohydrates": "35g",
+          "protein": "5g",
+          "fiber": "2g"
+        },
+        "allergens": ["Dairy", "Eggs", "Gluten"],
+        "tags": ["Vegetarian"]
+      },
+      {
+        "id": 302,
+        "name": "Classic Tiramisu",
+        "image": "https://example.com/images/classic_tiramisu.jpg",
+        "description": "A traditional Italian dessert with layers of coffee-soaked ladyfingers and mascarpone.",
+        "ingredients": [
+          {"name": "Ladyfingers", "quantity": "20", "description": "Store-bought or homemade"},
+          {"name": "Mascarpone cheese", "quantity": "250g", "description": "Room temperature"},
+          {"name": "Espresso coffee", "quantity": "1 cup", "description": "Freshly brewed and cooled"},
+          {"name": "Cocoa powder", "quantity": "2 tablespoons", "description": "For dusting"},
+          {"name": "Egg yolks", "quantity": "3", "description": "Fresh"}
+        ],
+        "instructions": [
+          "Beat egg yolks and sugar until pale and fluffy.",
+          "Fold in mascarpone cheese gently to form a creamy mixture.",
+          "Dip ladyfingers in coffee briefly and layer them in a dish.",
+          "Spread a layer of mascarpone mixture over the ladyfingers.",
+          "Repeat layers until all ingredients are used.",
+          "Dust with cocoa powder and chill for at least 4 hours before serving."
+        ],
+        "preparation_time": "20 minutes",
+        "cooking_time": "0 minutes (Chilling: 4 hours)",
+        "total_time": "4 hours 20 minutes",
+        "difficulty": "Medium",
+        "serving_size": "6",
+        "nutritional_info": {
+          "calories": "250 kcal per serving",
+          "fat": "15g",
+          "carbohydrates": "20g",
+          "protein": "4g",
+          "fiber": "1g"
+        },
+        "allergens": ["Dairy", "Eggs", "Gluten"],
+        "tags": ["Vegetarian"]
+      },
+      {
+        "id": 303,
+        "name": "Vegan Brownies",
+        "image": "https://example.com/images/vegan_brownies.jpg",
+        "description": "Rich and fudgy brownies made without eggs or dairy.",
+        "ingredients": [
+          {"name": "All-purpose flour", "quantity": "1 cup", "description": "Sifted"},
+          {"name": "Cocoa powder", "quantity": "1/3 cup", "description": "Unsweetened"},
+          {"name": "Sugar", "quantity": "3/4 cup", "description": "Granulated"},
+          {"name": "Almond milk", "quantity": "1/2 cup", "description": "Unsweetened"},
+          {"name": "Vegetable oil", "quantity": "1/4 cup", "description": "Neutral flavor"}
+        ],
+        "instructions": [
+          "Preheat oven to 180°C (350°F) and grease a baking dish.",
+          "Mix flour, cocoa powder, sugar, and baking powder in a bowl.",
+          "Add almond milk and vegetable oil; mix until smooth.",
+          "Pour batter into the baking dish and smooth the top.",
+          "Bake for 25 minutes or until a toothpick comes out with crumbs.",
+          "Cool completely before cutting into squares."
+        ],
+        "preparation_time": "10 minutes",
+        "cooking_time": "25 minutes",
+        "total_time": "35 minutes",
+        "difficulty": "Easy",
+        "serving_size": "9",
+        "nutritional_info": {
+          "calories": "180 kcal per serving",
+          "fat": "8g",
+          "carbohydrates": "28g",
+          "protein": "2g",
+          "fiber": "2g"
+        },
+        "allergens": ["Gluten"],
+        "tags": ["Vegan", "Nut-Free"]
+      },
+      {
+        "id": 304,
+        "name": "Panna Cotta",
+        "image": "https://example.com/images/panna_cotta.jpg",
+        "description": "Creamy Italian dessert served with a fruit topping.",
+        "ingredients": [
+          {"name": "Heavy cream", "quantity": "2 cups", "description": "Full-fat"},
+          {"name": "Sugar", "quantity": "1/2 cup", "description": "Granulated"},
+          {"name": "Gelatin", "quantity": "2 teaspoons", "description": "Unflavored"},
+          {"name": "Vanilla extract", "quantity": "1 teaspoon", "description": "Pure"},
+          {"name": "Fruit compote", "quantity": "1/2 cup", "description": "Optional topping"}
+        ],
+        "instructions": [
+          "Sprinkle gelatin over 1/4 cup of cold water and let it bloom.",
+          "Heat cream and sugar in a pan until sugar dissolves.",
+          "Add bloomed gelatin and vanilla extract; stir until dissolved.",
+          "Pour into ramekins and chill for 4 hours until set.",
+          "Serve with fruit compote or as desired."
+        ],
+        "preparation_time": "10 minutes",
+        "cooking_time": "5 minutes (Chilling: 4 hours)",
+        "total_time": "4 hours 15 minutes",
+        "difficulty": "Easy",
+        "serving_size": "4",
+        "nutritional_info": {
+          "calories": "250 kcal per serving",
+          "fat": "20g",
+          "carbohydrates": "15g",
+          "protein": "3g",
+          "fiber": "0g"
+        },
+        "allergens": ["Dairy"],
+        "tags": ["Vegetarian", "Gluten-Free", "Nut-Free"]
+      },
+      {
+        "id": 305,
+        "name": "Fruit Salad with Honey-Lime Dressing",
+        "image": "https://example.com/images/fruit_salad.jpg",
+        "description": "A refreshing mix of seasonal fruits drizzled with a sweet-tangy dressing.",
+        "ingredients": [
+          {"name": "Mixed fruits", "quantity": "4 cups", "description": "Chopped (e.g., berries, melons, and grapes)"},
+          {"name": "Lime juice", "quantity": "2 tablespoons", "description": "Freshly squeezed"},
+          {"name": "Honey", "quantity": "1 tablespoon", "description": "Raw and organic"},
+          {"name": "Mint leaves", "quantity": "2 tablespoons", "description": "Chopped (optional)"}
+        ],
+        "instructions": [
+          "Combine chopped fruits in a large bowl.",
+          "Mix lime juice and honey in a small bowl to make the dressing.",
+          "Pour dressing over fruits and toss gently to combine.",
+          "Garnish with mint leaves before serving."
+        ],
+        "preparation_time": "10 minutes",
+        "cooking_time": "0 minutes",
+        "total_time": "10 minutes",
+        "difficulty": "Easy",
+        "serving_size": "4",
+        "nutritional_info": {
+          "calories": "90 kcal per serving",
+          "fat": "0g",
+          "carbohydrates": "24g",
+          "protein": "1g",
+          "fiber": "4g"
+        },
+        "allergens": [],
+        "tags": ["Vegan", "Gluten-Free", "Nut-Free"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Main Course",
+    "filters": {
+      "preparation_time": ["<30 minutes", "30-60 minutes", "60+ minutes"],
+      "difficulty": ["Easy", "Medium", "Hard"],
+      "dietary": ["Vegetarian", "Vegan", "Non-Vegetarian"],
+      "allergens": ["Dairy-Free", "Nut-Free", "Gluten-Free"]
+    },
+    "recipes": [
+      {
+        "id": 401,
+        "name": "Grilled Chicken Breast",
+        "image": "https://example.com/images/grilled_chicken_breast.jpg",
+        "description": "Juicy and tender grilled chicken breast marinated with herbs and spices.",
+        "ingredients": [
+          {"name": "Chicken breasts", "quantity": "2", "description": "Boneless and skinless"},
+          {"name": "Olive oil", "quantity": "2 tablespoons", "description": "For marinating"},
+          {"name": "Garlic", "quantity": "3 cloves", "description": "Minced"},
+          {"name": "Lemon", "quantity": "1", "description": "Zested and juiced"},
+          {"name": "Fresh rosemary", "quantity": "1 tablespoon", "description": "Chopped"}
+        ],
+        "instructions": [
+          "Mix olive oil, garlic, lemon zest, lemon juice, and rosemary in a bowl.",
+          "Marinate chicken breasts in the mixture for at least 30 minutes.",
+          "Preheat the grill to medium-high heat.",
+          "Grill chicken for 6-7 minutes per side, until fully cooked.",
+          "Serve with a side of roasted vegetables."
+        ],
+        "preparation_time": "10 minutes",
+        "cooking_time": "15 minutes",
+        "total_time": "25 minutes",
+        "difficulty": "Easy",
+        "serving_size": "2",
+        "nutritional_info": {
+          "calories": "250 kcal per serving",
+          "fat": "12g",
+          "carbohydrates": "2g",
+          "protein": "35g",
+          "fiber": "1g"
+        },
+        "allergens": ["None"],
+        "tags": ["Non-Vegetarian"]
+      },
+      {
+        "id": 402,
+        "name": "Vegetarian Stir-Fry",
+        "image": "https://example.com/images/vegetarian_stir_fry.jpg",
+        "description": "A colorful and healthy stir-fry packed with fresh vegetables and a savory sauce.",
+        "ingredients": [
+          {"name": "Bell peppers", "quantity": "2", "description": "Chopped"},
+          {"name": "Carrots", "quantity": "1", "description": "Sliced into thin strips"},
+          {"name": "Broccoli", "quantity": "1 cup", "description": "Florets"},
+          {"name": "Tofu", "quantity": "200g", "description": "Pressed and cubed"},
+          {"name": "Soy sauce", "quantity": "2 tablespoons", "description": "Low sodium"}
+        ],
+        "instructions": [
+          "Heat a wok or large pan over medium-high heat and add a bit of oil.",
+          "Stir-fry tofu until golden brown, then set aside.",
+          "In the same pan, add bell peppers, carrots, and broccoli, stir-fry for 5 minutes.",
+          "Add tofu back to the pan along with soy sauce and stir until well combined.",
+          "Serve with steamed rice."
+        ],
+        "preparation_time": "10 minutes",
+        "cooking_time": "10 minutes",
+        "total_time": "20 minutes",
+        "difficulty": "Easy",
+        "serving_size": "3",
+        "nutritional_info": {
+          "calories": "200 kcal per serving",
+          "fat": "12g",
+          "carbohydrates": "20g",
+          "protein": "8g",
+          "fiber": "5g"
+        },
+        "allergens": ["Soy"],
+        "tags": ["Vegan", "Gluten-Free"]
+      },
+      {
+        "id": 403,
+        "name": "Beef Steak with Garlic Butter",
+        "image": "https://example.com/images/beef_steak_with_garlic_butter.jpg",
+        "description": "Tender and juicy beef steak served with a rich garlic butter sauce.",
+        "ingredients": [
+          {"name": "Beef steaks", "quantity": "2", "description": "Ribeye or sirloin"},
+          {"name": "Garlic", "quantity": "4 cloves", "description": "Minced"},
+          {"name": "Butter", "quantity": "3 tablespoons", "description": "Unsalted"},
+          {"name": "Fresh thyme", "quantity": "1 tablespoon", "description": "Chopped"},
+          {"name": "Olive oil", "quantity": "1 tablespoon", "description": "For searing"}
+        ],
+        "instructions": [
+          "Preheat a skillet over medium-high heat and add olive oil.",
+          "Sear the steaks for 4-5 minutes on each side, depending on desired doneness.",
+          "Remove steaks from the skillet and set aside to rest.",
+          "In the same skillet, melt butter and sauté garlic and thyme.",
+          "Pour the garlic butter over the steaks and serve."
+        ],
+        "preparation_time": "5 minutes",
+        "cooking_time": "10 minutes",
+        "total_time": "15 minutes",
+        "difficulty": "Medium",
+        "serving_size": "2",
+        "nutritional_info": {
+          "calories": "350 kcal per serving",
+          "fat": "28g",
+          "carbohydrates": "2g",
+          "protein": "30g",
+          "fiber": "0g"
+        },
+        "allergens": ["Dairy"],
+        "tags": ["Non-Vegetarian"]
+      },
+      {
+        "id": 404,
+        "name": "Spaghetti Aglio e Olio",
+        "image": "https://example.com/images/spaghetti_aglio_olio.jpg",
+        "description": "A classic Italian pasta dish with garlic, olive oil, and red pepper flakes.",
+        "ingredients": [
+          {"name": "Spaghetti", "quantity": "200g", "description": "Dry"},
+          {"name": "Olive oil", "quantity": "4 tablespoons", "description": "Extra virgin"},
+          {"name": "Garlic", "quantity": "6 cloves", "description": "Thinly sliced"},
+          {"name": "Red pepper flakes", "quantity": "1 teaspoon", "description": "For heat"},
+          {"name": "Parsley", "quantity": "1 tablespoon", "description": "Chopped"}
+        ],
+        "instructions": [
+          "Cook spaghetti according to package instructions.",
+          "Heat olive oil in a pan and sauté garlic until golden brown.",
+          "Add red pepper flakes and sauté for another 30 seconds.",
+          "Add cooked spaghetti to the pan and toss well to coat.",
+          "Garnish with parsley and serve."
+        ],
+        "preparation_time": "5 minutes",
+        "cooking_time": "10 minutes",
+        "total_time": "15 minutes",
+        "difficulty": "Easy",
+        "serving_size": "2",
+        "nutritional_info": {
+          "calories": "350 kcal per serving",
+          "fat": "16g",
+          "carbohydrates": "45g",
+          "protein": "8g",
+          "fiber": "3g"
+        },
+        "allergens": ["Gluten"],
+        "tags": ["Vegetarian"]
+      },
+      {
+        "id": 405,
+        "name": "Chicken Alfredo Pasta",
+        "image": "https://example.com/images/chicken_alfredo_pasta.jpg",
+        "description": "Creamy pasta with grilled chicken, rich Alfredo sauce, and parmesan cheese.",
+        "ingredients": [
+          {"name": "Penne pasta", "quantity": "200g", "description": "Dry"},
+          {"name": "Chicken breast", "quantity": "1", "description": "Boneless and skinless, grilled"},
+          {"name": "Heavy cream", "quantity": "1 cup", "description": "For the sauce"},
+          {"name": "Parmesan cheese", "quantity": "1/2 cup", "description": "Grated"},
+          {"name": "Butter", "quantity": "2 tablespoons", "description": "For the sauce"}
+        ],
+        "instructions": [
+          "Cook the penne pasta according to package instructions.",
+          "Grill chicken breast and slice it into strips.",
+          "In a pan, melt butter, then add heavy cream and simmer.",
+          "Stir in grated parmesan cheese and cook until the sauce thickens.",
+          "Toss pasta and chicken in the sauce until well coated."
+        ],
+        "preparation_time": "10 minutes",
+        "cooking_time": "15 minutes",
+        "total_time": "25 minutes",
+        "difficulty": "Medium",
+        "serving_size": "3",
+        "nutritional_info": {
+          "calories": "450 kcal per serving",
+          "fat": "20g",
+          "carbohydrates": "50g",
+          "protein": "25g",
+          "fiber": "3g"
+        },
+        "allergens": ["Dairy", "Gluten"],
+        "tags": ["Non-Vegetarian"]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Snacks",
+    "filters": {
+      "preparation_time": ["<30 minutes", "30-60 minutes", "60+ minutes"],
+      "difficulty": ["Easy", "Medium", "Hard"],
+      "dietary": ["Vegetarian", "Vegan", "Non-Vegetarian"],
+      "allergens": ["Dairy-Free", "Nut-Free", "Gluten-Free"]
+    },
+    "recipes": [
+      {
+        "id": 501,
+        "name": "Cheese Nachos",
+        "image": "https://example.com/images/cheese_nachos.jpg",
+        "description": "Crispy nachos topped with melted cheese and served with salsa.",
+        "ingredients": [
+          {"name": "Tortilla chips", "quantity": "1 bag", "description": "Plain"},
+          {"name": "Cheddar cheese", "quantity": "1 cup", "description": "Shredded"},
+          {"name": "Salsa", "quantity": "1/2 cup", "description": "For dipping"}
+        ],
+        "instructions": [
+          "Preheat the oven to 350°F (175°C).",
+          "Spread tortilla chips on a baking sheet.",
+          "Top with shredded cheddar cheese.",
+          "Bake for 5-7 minutes until cheese is melted.",
+          "Serve with salsa on the side."
+        ],
+        "preparation_time": "5 minutes",
+        "cooking_time": "7 minutes",
+        "total_time": "12 minutes",
+        "difficulty": "Easy",
+        "serving_size": "2",
+        "nutritional_info": {
+          "calories": "250 kcal per serving",
+          "fat": "14g",
+          "carbohydrates": "25g",
+          "protein": "6g",
+          "fiber": "2g"
+        },
+        "allergens": ["Dairy"],
+        "tags": ["Vegetarian"]
+      },
+      {
+        "id": 502,
+        "name": "Veggie Spring Rolls",
+        "image": "https://example.com/images/veggie_spring_rolls.jpg",
+        "description": "Crispy spring rolls stuffed with fresh vegetables.",
+        "ingredients": [
+          {"name": "Rice paper", "quantity": "6 sheets", "description": "For wrapping"},
+          {"name": "Carrots", "quantity": "1", "description": "Shredded"},
+          {"name": "Cucumber", "quantity": "1", "description": "Sliced into thin strips"},
+          {"name": "Lettuce", "quantity": "1/2 cup", "description": "Shredded"},
+          {"name": "Soy sauce", "quantity": "2 tablespoons", "description": "For dipping"}
+        ],
+        "instructions": [
+          "Soak rice paper in warm water for 5 seconds.",
+          "Lay rice paper flat and add veggies in the center.",
+          "Roll the rice paper tightly, folding in the sides.",
+          "Serve with soy sauce for dipping."
+        ],
+        "preparation_time": "10 minutes",
+        "cooking_time": "None",
+        "total_time": "10 minutes",
+        "difficulty": "Easy",
+        "serving_size": "2",
+        "nutritional_info": {
+          "calories": "100 kcal per serving",
+          "fat": "1g",
+          "carbohydrates": "20g",
+          "protein": "2g",
+          "fiber": "4g"
+        },
+        "allergens": ["Soy"],
+        "tags": ["Vegan", "Gluten-Free"]
+      },
+      {
+        "id": 503,
+        "name": "Mini Quesadillas",
+        "image": "https://example.com/images/mini_quesadillas.jpg",
+        "description": "Mini tortillas filled with cheese and served with salsa.",
+        "ingredients": [
+          {"name": "Flour tortillas", "quantity": "4", "description": "Small"},
+          {"name": "Cheddar cheese", "quantity": "1 cup", "description": "Shredded"},
+          {"name": "Salsa", "quantity": "1/2 cup", "description": "For dipping"}
+        ],
+        "instructions": [
+          "Heat a skillet over medium heat.",
+          "Place one tortilla in the skillet and sprinkle with cheese.",
+          "Top with another tortilla and cook for 2-3 minutes on each side until golden brown.",
+          "Cut into wedges and serve with salsa."
+        ],
+        "preparation_time": "5 minutes",
+        "cooking_time": "6 minutes",
+        "total_time": "11 minutes",
+        "difficulty": "Easy",
+        "serving_size": "2",
+        "nutritional_info": {
+          "calories": "300 kcal per serving",
+          "fat": "18g",
+          "carbohydrates": "30g",
+          "protein": "12g",
+          "fiber": "2g"
+        },
+        "allergens": ["Dairy", "Gluten"],
+        "tags": ["Vegetarian"]
+      },
+      {
+        "id": 504,
+        "name": "Chicken Wings",
+        "image": "https://example.com/images/chicken_wings.jpg",
+        "description": "Crispy chicken wings coated in a spicy sauce.",
+        "ingredients": [
+          {"name": "Chicken wings", "quantity": "10", "description": "Skinless"},
+          {"name": "Hot sauce", "quantity": "3 tablespoons", "description": "Spicy"},
+          {"name": "Olive oil", "quantity": "1 tablespoon", "description": "For frying"}
+        ],
+        "instructions": [
+          "Heat oil in a pan over medium heat.",
+          "Fry chicken wings for 8-10 minutes until golden brown and crispy.",
+          "Toss wings in hot sauce and serve."
+        ],
+        "preparation_time": "5 minutes",
+        "cooking_time": "10 minutes",
+        "total_time": "15 minutes",
+        "difficulty": "Medium",
+        "serving_size": "3",
+        "nutritional_info": {
+          "calories": "400 kcal per serving",
+          "fat": "28g",
+          "carbohydrates": "2g",
+          "protein": "30g",
+          "fiber": "0g"
+        },
+        "allergens": ["None"],
+        "tags": ["Non-Vegetarian"]
+      },
+      {
+        "id": 505,
+        "name": "Fruit Salad",
+        "image": "https://example.com/images/fruit_salad.jpg",
+        "description": "A fresh and colorful mix of seasonal fruits.",
+        "ingredients": [
+          {"name": "Apple", "quantity": "1", "description": "Chopped"},
+          {"name": "Banana", "quantity": "1", "description": "Sliced"},
+          {"name": "Grapes", "quantity": "1 cup", "description": "Seedless"},
+          {"name": "Orange", "quantity": "1", "description": "Peeled and segmented"}
+        ],
+        "instructions": [
+          "Chop all fruits into bite-sized pieces.",
+          "Toss fruits together in a large bowl.",
+          "Serve chilled."
+        ],
+        "preparation_time": "5 minutes",
+        "cooking_time": "None",
+        "total_time": "5 minutes",
+        "difficulty": "Easy",
+        "serving_size": "2",
+        "nutritional_info": {
+          "calories": "150 kcal per serving",
+          "fat": "0g",
+          "carbohydrates": "40g",
+          "protein": "1g",
+          "fiber": "6g"
+        },
+        "allergens": ["None"],
+        "tags": ["Vegan", "Gluten-Free"]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Snacks",
+    "filters": {
+      "preparation_time": ["<30 minutes", "30-60 minutes", "60+ minutes"],
+      "difficulty": ["Easy", "Medium", "Hard"],
+      "dietary": ["Vegetarian", "Vegan", "Non-Vegetarian"],
+      "allergens": ["Dairy-Free", "Nut-Free", "Gluten-Free"]
+    },
+    "recipes": [
+      {
+        "id": 501,
+        "name": "Cheese Nachos",
+        "image": "https://example.com/images/cheese_nachos.jpg",
+        "description": "Crispy nachos topped with melted cheese and served with salsa.",
+        "ingredients": [
+          {"name": "Tortilla chips", "quantity": "1 bag", "description": "Plain"},
+          {"name": "Cheddar cheese", "quantity": "1 cup", "description": "Shredded"},
+          {"name": "Salsa", "quantity": "1/2 cup", "description": "For dipping"}
+        ],
+        "instructions": [
+          "Preheat the oven to 350°F (175°C).",
+          "Spread tortilla chips on a baking sheet.",
+          "Top with shredded cheddar cheese.",
+          "Bake for 5-7 minutes until cheese is melted.",
+          "Serve with salsa on the side."
+        ],
+        "preparation_time": "5 minutes",
+        "cooking_time": "7 minutes",
+        "total_time": "12 minutes",
+        "difficulty": "Easy",
+        "serving_size": "2",
+        "nutritional_info": {
+          "calories": "250 kcal per serving",
+          "fat": "14g",
+          "carbohydrates": "25g",
+          "protein": "6g",
+          "fiber": "2g"
+        },
+        "allergens": ["Dairy"],
+        "tags": ["Vegetarian"]
+      },
+      {
+        "id": 502,
+        "name": "Veggie Spring Rolls",
+        "image": "https://example.com/images/veggie_spring_rolls.jpg",
+        "description": "Crispy spring rolls stuffed with fresh vegetables.",
+        "ingredients": [
+          {"name": "Rice paper", "quantity": "6 sheets", "description": "For wrapping"},
+          {"name": "Carrots", "quantity": "1", "description": "Shredded"},
+          {"name": "Cucumber", "quantity": "1", "description": "Sliced into thin strips"},
+          {"name": "Lettuce", "quantity": "1/2 cup", "description": "Shredded"},
+          {"name": "Soy sauce", "quantity": "2 tablespoons", "description": "For dipping"}
+        ],
+        "instructions": [
+          "Soak rice paper in warm water for 5 seconds.",
+          "Lay rice paper flat and add veggies in the center.",
+          "Roll the rice paper tightly, folding in the sides.",
+          "Serve with soy sauce for dipping."
+        ],
+        "preparation_time": "10 minutes",
+        "cooking_time": "None",
+        "total_time": "10 minutes",
+        "difficulty": "Easy",
+        "serving_size": "2",
+        "nutritional_info": {
+          "calories": "100 kcal per serving",
+          "fat": "1g",
+          "carbohydrates": "20g",
+          "protein": "2g",
+          "fiber": "4g"
+        },
+        "allergens": ["Soy"],
+        "tags": ["Vegan", "Gluten-Free"]
+      },
+      {
+        "id": 503,
+        "name": "Mini Quesadillas",
+        "image": "https://example.com/images/mini_quesadillas.jpg",
+        "description": "Mini tortillas filled with cheese and served with salsa.",
+        "ingredients": [
+          {"name": "Flour tortillas", "quantity": "4", "description": "Small"},
+          {"name": "Cheddar cheese", "quantity": "1 cup", "description": "Shredded"},
+          {"name": "Salsa", "quantity": "1/2 cup", "description": "For dipping"}
+        ],
+        "instructions": [
+          "Heat a skillet over medium heat.",
+          "Place one tortilla in the skillet and sprinkle with cheese.",
+          "Top with another tortilla and cook for 2-3 minutes on each side until golden brown.",
+          "Cut into wedges and serve with salsa."
+        ],
+        "preparation_time": "5 minutes",
+        "cooking_time": "6 minutes",
+        "total_time": "11 minutes",
+        "difficulty": "Easy",
+        "serving_size": "2",
+        "nutritional_info": {
+          "calories": "300 kcal per serving",
+          "fat": "18g",
+          "carbohydrates": "30g",
+          "protein": "12g",
+          "fiber": "2g"
+        },
+        "allergens": ["Dairy", "Gluten"],
+        "tags": ["Vegetarian"]
+      },
+      {
+        "id": 504,
+        "name": "Chicken Wings",
+        "image": "https://example.com/images/chicken_wings.jpg",
+        "description": "Crispy chicken wings coated in a spicy sauce.",
+        "ingredients": [
+          {"name": "Chicken wings", "quantity": "10", "description": "Skinless"},
+          {"name": "Hot sauce", "quantity": "3 tablespoons", "description": "Spicy"},
+          {"name": "Olive oil", "quantity": "1 tablespoon", "description": "For frying"}
+        ],
+        "instructions": [
+          "Heat oil in a pan over medium heat.",
+          "Fry chicken wings for 8-10 minutes until golden brown and crispy.",
+          "Toss wings in hot sauce and serve."
+        ],
+        "preparation_time": "5 minutes",
+        "cooking_time": "10 minutes",
+        "total_time": "15 minutes",
+        "difficulty": "Medium",
+        "serving_size": "3",
+        "nutritional_info": {
+          "calories": "400 kcal per serving",
+          "fat": "28g",
+          "carbohydrates": "2g",
+          "protein": "30g",
+          "fiber": "0g"
+        },
+        "allergens": ["None"],
+        "tags": ["Non-Vegetarian"]
+      },
+      {
+        "id": 505,
+        "name": "Fruit Salad",
+        "image": "https://example.com/images/fruit_salad.jpg",
+        "description": "A fresh and colorful mix of seasonal fruits.",
+        "ingredients": [
+          {"name": "Apple", "quantity": "1", "description": "Chopped"},
+          {"name": "Banana", "quantity": "1", "description": "Sliced"},
+          {"name": "Grapes", "quantity": "1 cup", "description": "Seedless"},
+          {"name": "Orange", "quantity": "1", "description": "Peeled and segmented"}
+        ],
+        "instructions": [
+          "Chop all fruits into bite-sized pieces.",
+          "Toss fruits together in a large bowl.",
+          "Serve chilled."
+        ],
+        "preparation_time": "5 minutes",
+        "cooking_time": "None",
+        "total_time": "5 minutes",
+        "difficulty": "Easy",
+        "serving_size": "2",
+        "nutritional_info": {
+          "calories": "150 kcal per serving",
+          "fat": "0g",
+          "carbohydrates": "40g",
+          "protein": "1g",
+          "fiber": "6g"
+        },
+        "allergens": ["None"],
+        "tags": ["Vegan", "Gluten-Free"]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Beverages",
+    "filters": {
+      "type": ["Hot", "Cold", "Smoothies"],
+      "caffeine_content": ["Caffeinated", "Decaffeinated"],
+      "sweetness": ["Unsweetened", "Lightly Sweetened", "Sweetened"]
+    },
+    "recipes": [
+      {
+        "id": 601,
+        "name": "Classic Lemonade",
+        "image": "https://example.com/images/classic_lemonade.jpg",
+        "description": "Refreshing homemade lemonade with a perfect balance of sweetness and tartness.",
+        "ingredients": [
+          {"name": "Lemons", "quantity": "4", "description": "Freshly squeezed"},
+          {"name": "Sugar", "quantity": "1/2 cup", "description": "Granulated"},
+          {"name": "Water", "quantity": "4 cups", "description": "Cold"}
+        ],
+        "instructions": [
+          "In a pitcher, mix lemon juice and sugar until sugar dissolves.",
+          "Add cold water and stir well.",
+          "Serve chilled over ice."
+        ],
+        "preparation_time": "5 minutes",
+        "total_time": "5 minutes",
+        "difficulty": "Easy",
+        "serving_size": "4",
+        "nutritional_info": {
+          "calories": "80 kcal per serving",
+          "fat": "0g",
+          "carbohydrates": "21g",
+          "protein": "0g",
+          "fiber": "1g"
+        },
+        "tags": ["Cold", "Sweetened"]
+      },
+      {
+        "id": 602,
+        "name": "Iced Coffee",
+        "image": "https://example.com/images/iced_coffee.jpg",
+        "description": "Chilled coffee served over ice, perfect for a summer day.",
+        "ingredients": [
+          {"name": "Coffee", "quantity": "1 cup", "description": "Brewed and cooled"},
+          {"name": "Milk", "quantity": "1/2 cup", "description": "Optional"},
+          {"name": "Ice cubes", "quantity": "5-6", "description": "For serving"}
+        ],
+        "instructions": [
+          "Brew a cup of coffee and let it cool to room temperature.",
+          "Fill a glass with ice cubes and pour coffee over the ice.",
+          "Add milk if desired and stir well."
+        ],
+        "preparation_time": "10 minutes",
+        "total_time": "10 minutes",
+        "difficulty": "Easy",
+        "serving_size": "1",
+        "nutritional_info": {
+          "calories": "30 kcal per serving",
+          "fat": "0g",
+          "carbohydrates": "1g",
+          "protein": "0g",
+          "fiber": "0g"
+        },
+        "tags": ["Cold", "Caffeinated"]
+      },
+      {
+        "id": 603,
+        "name": "Green Smoothie",
+        "image": "https://example.com/images/green_smoothie.jpg",
+        "description": "Healthy and delicious green smoothie packed with spinach and fruits.",
+        "ingredients": [
+          {"name": "Spinach", "quantity": "1 cup", "description": "Fresh"},
+          {"name": "Banana", "quantity": "1", "description": "Ripe"},
+          {"name": "Milk", "quantity": "1 cup", "description": "Or almond milk"},
+          {"name": "Honey", "quantity": "1 tablespoon", "description": "Optional"}
+        ],
+        "instructions": [
+          "Combine spinach, banana, milk, and honey in a blender.",
+          "Blend until smooth and creamy.",
+          "Pour into a glass and serve immediately."
+        ],
+        "preparation_time": "5 minutes",
+        "total_time": "5 minutes",
+        "difficulty": "Easy",
+        "serving_size": "2",
+        "nutritional_info": {
+          "calories": "150 kcal per serving",
+          "fat": "3g",
+          "carbohydrates": "30g",
+          "protein": "5g",
+          "fiber": "4g"
+        },
+        "tags": ["Cold", "Smoothies", "Sweetened"]
+      },
+      {
+        "id": 604,
+        "name": "Hot Chocolate",
+        "image": "https://example.com/images/hot_chocolate.jpg",
+        "description": "Rich and creamy hot chocolate topped with whipped cream.",
+        "ingredients": [
+          {"name": "Milk", "quantity": "2 cups", "description": "Whole or 2%"},
+          {"name": "Cocoa powder", "quantity": "2 tablespoons", "description": "Unsweetened"},
+          {"name": "Sugar", "quantity": "2 tablespoons", "description": "Adjust to taste"},
+          {"name": "Whipped cream", "quantity": "As needed", "description": "For topping"}
+        ],
+        "instructions": [
+          "Heat milk in a saucepan over medium heat until warm.",
+          "Whisk in cocoa powder and sugar until fully dissolved.",
+          "Pour into mugs and top with whipped cream."
+        ],
+        "preparation_time": "5 minutes",
+        "cooking_time": "5 minutes",
+        "total_time": "10 minutes",
+        "difficulty": "Easy",
+        "serving_size": "2",
+        "nutritional_info": {
+          "calories": "200 kcal per serving",
+          "fat": "8g",
+          "carbohydrates": "25g",
+          "protein": "6g",
+          "fiber": "2g"
+        },
+        "tags": ["Hot", "Sweetened"]
+      },
+      {
+        "id": 605,
+        "name": "Chamomile Tea",
+        "image": "https://example.com/images/chamomile_tea.jpg",
+        "description": "Relaxing herbal tea with a soothing aroma.",
+        "ingredients": [
+          {"name": "Chamomile tea bags", "quantity": "2", "description": "Or dried chamomile flowers"},
+          {"name": "Water", "quantity": "2 cups", "description": "Hot"},
+          {"name": "Honey", "quantity": "1 teaspoon", "description": "Optional"}
+        ],
+        "instructions": [
+          "Boil water and pour it over chamomile tea bags in a teapot.",
+          "Let steep for 5 minutes.",
+          "Strain into cups and sweeten with honey if desired."
+        ],
+        "preparation_time": "5 minutes",
+        "total_time": "5 minutes",
+        "difficulty": "Easy",
+        "serving_size": "2",
+        "nutritional_info": {
+          "calories": "10 kcal per serving",
+          "fat": "0g",
+          "carbohydrates": "2g",
+          "protein": "0g",
+          "fiber": "0g"
+        },
+        "tags": ["Hot", "Unsweetened"]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Seafood",
+    "filters": {
+      "type": ["Grilled", "Fried", "Baked", "Steamed"],
+      "spiciness": ["Mild", "Medium", "Spicy"],
+      "dietary": ["Gluten-Free", "Low-Carb"]
+    },
+    "recipes": [
+      {
+        "id": 701,
+        "name": "Grilled Salmon",
+        "image": "https://example.com/images/grilled_salmon.jpg",
+        "description": "Perfectly grilled salmon fillet with a tangy lemon-garlic marinade.",
+        "ingredients": [
+          {"name": "Salmon fillet", "quantity": "2", "description": "Skin-on, fresh"},
+          {"name": "Olive oil", "quantity": "2 tablespoons", "description": "Extra virgin"},
+          {"name": "Garlic", "quantity": "2 cloves", "description": "Minced"},
+          {"name": "Lemon juice", "quantity": "2 tablespoons", "description": "Freshly squeezed"},
+          {"name": "Salt", "quantity": "1 teaspoon", "description": "To taste"},
+          {"name": "Black pepper", "quantity": "1 teaspoon", "description": "Freshly ground"}
+        ],
+        "instructions": [
+          "Mix olive oil, garlic, lemon juice, salt, and pepper in a bowl.",
+          "Brush the marinade onto the salmon fillets and let sit for 10 minutes.",
+          "Grill the salmon on medium heat for 5-6 minutes per side.",
+          "Serve hot with a wedge of lemon."
+        ],
+        "preparation_time": "10 minutes",
+        "cooking_time": "12 minutes",
+        "total_time": "22 minutes",
+        "difficulty": "Easy",
+        "serving_size": "2",
+        "nutritional_info": {
+          "calories": "280 kcal per serving",
+          "fat": "18g",
+          "carbohydrates": "2g",
+          "protein": "26g",
+          "fiber": "0g"
+        },
+        "tags": ["Grilled", "Low-Carb", "Gluten-Free"]
+      },
+      {
+        "id": 702,
+        "name": "Shrimp Scampi",
+        "image": "https://example.com/images/shrimp_scampi.jpg",
+        "description": "Classic shrimp scampi cooked in a garlic butter and white wine sauce.",
+        "ingredients": [
+          {"name": "Shrimp", "quantity": "1 lb", "description": "Peeled and deveined"},
+          {"name": "Butter", "quantity": "4 tablespoons", "description": "Unsalted"},
+          {"name": "Garlic", "quantity": "4 cloves", "description": "Minced"},
+          {"name": "White wine", "quantity": "1/4 cup", "description": "Dry"},
+          {"name": "Lemon juice", "quantity": "2 tablespoons", "description": "Freshly squeezed"},
+          {"name": "Parsley", "quantity": "2 tablespoons", "description": "Fresh, chopped"}
+        ],
+        "instructions": [
+          "Melt butter in a skillet over medium heat.",
+          "Add garlic and sauté until fragrant.",
+          "Add shrimp and cook until pink and opaque.",
+          "Pour in white wine and lemon juice, and simmer for 2 minutes.",
+          "Garnish with parsley and serve immediately."
+        ],
+        "preparation_time": "10 minutes",
+        "cooking_time": "8 minutes",
+        "total_time": "18 minutes",
+        "difficulty": "Easy",
+        "serving_size": "4",
+        "nutritional_info": {
+          "calories": "210 kcal per serving",
+          "fat": "12g",
+          "carbohydrates": "2g",
+          "protein": "23g",
+          "fiber": "0g"
+        },
+        "tags": ["Mild", "Gluten-Free"]
+      },
+      {
+        "id": 703,
+        "name": "Fried Calamari",
+        "image": "https://example.com/images/fried_calamari.jpg",
+        "description": "Crispy fried calamari served with a tangy marinara dipping sauce.",
+        "ingredients": [
+          {"name": "Calamari rings", "quantity": "1 lb", "description": "Fresh or thawed"},
+          {"name": "Flour", "quantity": "1 cup", "description": "All-purpose"},
+          {"name": "Eggs", "quantity": "2", "description": "Beaten"},
+          {"name": "Breadcrumbs", "quantity": "1 cup", "description": "Seasoned"},
+          {"name": "Salt", "quantity": "1 teaspoon", "description": "To taste"},
+          {"name": "Vegetable oil", "quantity": "For frying", "description": "Neutral-flavored"}
+        ],
+        "instructions": [
+          "Heat oil in a deep fryer or large pan to 350°F (175°C).",
+          "Coat calamari rings in flour, dip in beaten eggs, and roll in breadcrumbs.",
+          "Fry in batches until golden brown, about 2-3 minutes.",
+          "Drain on paper towels and sprinkle with salt before serving."
+        ],
+        "preparation_time": "15 minutes",
+        "cooking_time": "10 minutes",
+        "total_time": "25 minutes",
+        "difficulty": "Medium",
+        "serving_size": "4",
+        "nutritional_info": {
+          "calories": "250 kcal per serving",
+          "fat": "14g",
+          "carbohydrates": "18g",
+          "protein": "12g",
+          "fiber": "1g"
+        },
+        "tags": ["Fried", "Medium"]
+      },
+      {
+        "id": 704,
+        "name": "Steamed Mussels",
+        "image": "https://example.com/images/steamed_mussels.jpg",
+        "description": "Fresh mussels steamed in a flavorful broth of garlic and white wine.",
+        "ingredients": [
+          {"name": "Mussels", "quantity": "2 lbs", "description": "Fresh, cleaned"},
+          {"name": "Garlic", "quantity": "3 cloves", "description": "Minced"},
+          {"name": "White wine", "quantity": "1 cup", "description": "Dry"},
+          {"name": "Butter", "quantity": "2 tablespoons", "description": "Unsalted"},
+          {"name": "Parsley", "quantity": "2 tablespoons", "description": "Chopped"},
+          {"name": "Lemon wedges", "quantity": "For serving", "description": "Optional"}
+        ],
+        "instructions": [
+          "Melt butter in a large pot over medium heat.",
+          "Add garlic and sauté until fragrant.",
+          "Pour in white wine and bring to a simmer.",
+          "Add mussels, cover, and steam until they open, about 5-7 minutes.",
+          "Discard any unopened mussels, garnish with parsley, and serve with lemon wedges."
+        ],
+        "preparation_time": "10 minutes",
+        "cooking_time": "7 minutes",
+        "total_time": "17 minutes",
+        "difficulty": "Easy",
+        "serving_size": "4",
+        "nutritional_info": {
+          "calories": "190 kcal per serving",
+          "fat": "6g",
+          "carbohydrates": "4g",
+          "protein": "28g",
+          "fiber": "0g"
+        },
+        "tags": ["Steamed", "Low-Carb", "Gluten-Free"]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Breakfast",
+    "filters": {
+      "type": ["Quick", "Healthy", "Indulgent"],
+      "dietary": ["Vegetarian", "Vegan", "Non-Vegetarian"],
+      "cooking_time": ["<10 minutes", "10-20 minutes", "20+ minutes"]
+    },
+    "recipes": [
+      {
+        "id": 801,
+        "name": "Avocado Toast",
+        "image": "https://example.com/images/avocado_toast.jpg",
+        "description": "Creamy avocado spread on toasted bread, topped with chili flakes and lime.",
+        "ingredients": [
+          { "name": "Bread slices", "quantity": "2", "description": "Whole grain recommended" },
+          { "name": "Avocado", "quantity": "1", "description": "Ripe, mashed" },
+          { "name": "Lime", "quantity": "1", "description": "Juiced" },
+          { "name": "Chili flakes", "quantity": "1 tsp", "description": "Optional, for garnish" },
+          { "name": "Salt", "quantity": "To taste", "description": "For seasoning" }
+        ],
+        "instructions": [
+          "Toast the bread slices until golden brown.",
+          "Mash the avocado and mix with lime juice and salt.",
+          "Spread the avocado mixture onto the toasted bread.",
+          "Sprinkle chili flakes on top and serve immediately."
+        ],
+        "preparation_time": "5 minutes",
+        "cooking_time": "5 minutes",
+        "total_time": "10 minutes",
+        "difficulty": "Easy",
+        "serving_size": "1",
+        "nutritional_info": {
+          "calories": "250 kcal per serving",
+          "fat": "15g",
+          "carbohydrates": "20g",
+          "protein": "5g",
+          "fiber": "7g"
+        },
+        "allergens": ["Gluten"],
+        "tags": ["Vegetarian"]
+      },
+      {
+        "id": 802,
+        "name": "Pancakes",
+        "image": "https://example.com/images/pancakes.jpg",
+        "description": "Fluffy and golden pancakes served with maple syrup and fresh berries.",
+        "ingredients": [
+          { "name": "Flour", "quantity": "1 cup", "description": "All-purpose" },
+          { "name": "Milk", "quantity": "1 cup", "description": "Dairy or plant-based" },
+          { "name": "Egg", "quantity": "1", "description": "Large" },
+          { "name": "Baking powder", "quantity": "1 tsp", "description": "For fluffiness" },
+          { "name": "Maple syrup", "quantity": "As needed", "description": "For serving" }
+        ],
+        "instructions": [
+          "Mix flour, milk, egg, and baking powder in a bowl until smooth.",
+          "Heat a non-stick pan over medium heat and pour batter to form pancakes.",
+          "Cook until bubbles appear, then flip and cook the other side.",
+          "Serve with maple syrup and fresh berries."
+        ],
+        "preparation_time": "10 minutes",
+        "cooking_time": "10 minutes",
+        "total_time": "20 minutes",
+        "difficulty": "Easy",
+        "serving_size": "2",
+        "nutritional_info": {
+          "calories": "300 kcal per serving",
+          "fat": "8g",
+          "carbohydrates": "45g",
+          "protein": "8g",
+          "fiber": "2g"
+        },
+        "allergens": ["Gluten", "Eggs"],
+        "tags": ["Vegetarian"]
+      },
+      {
+        "id": 803,
+        "name": "Breakfast Burrito",
+        "image": "https://example.com/images/breakfast_burrito.jpg",
+        "description": "A hearty burrito filled with eggs, cheese, and veggies.",
+        "ingredients": [
+          { "name": "Tortilla", "quantity": "1", "description": "Large" },
+          { "name": "Eggs", "quantity": "2", "description": "Scrambled" },
+          { "name": "Cheese", "quantity": "1/4 cup", "description": "Shredded" },
+          { "name": "Bell peppers", "quantity": "1/4 cup", "description": "Chopped" },
+          { "name": "Salsa", "quantity": "2 tbsp", "description": "For topping" }
+        ],
+        "instructions": [
+          "Scramble eggs in a pan with chopped bell peppers.",
+          "Warm the tortilla and place the scrambled eggs and cheese inside.",
+          "Roll the tortilla tightly into a burrito.",
+          "Top with salsa and serve."
+        ],
+        "preparation_time": "10 minutes",
+        "cooking_time": "10 minutes",
+        "total_time": "20 minutes",
+        "difficulty": "Easy",
+        "serving_size": "1",
+        "nutritional_info": {
+          "calories": "400 kcal per serving",
+          "fat": "18g",
+          "carbohydrates": "35g",
+          "protein": "20g",
+          "fiber": "3g"
+        },
+        "allergens": ["Eggs", "Dairy", "Gluten"],
+        "tags": ["Non-Vegetarian"]
+      },
+      {
+        "id": 804,
+        "name": "Smoothie Bowl",
+        "image": "https://example.com/images/smoothie_bowl.jpg",
+        "description": "A refreshing bowl of blended fruits and topped with granola, seeds, and coconut flakes.",
+        "ingredients": [
+          { "name": "Frozen berries", "quantity": "1 cup", "description": "Mixed, such as strawberries and blueberries" },
+          { "name": "Banana", "quantity": "1", "description": "Frozen" },
+          { "name": "Almond milk", "quantity": "1/2 cup", "description": "Or any preferred plant-based milk" },
+          { "name": "Granola", "quantity": "1/4 cup", "description": "For topping" },
+          { "name": "Chia seeds", "quantity": "1 tsp", "description": "For topping" }
+        ],
+        "instructions": [
+          "Blend frozen berries, banana, and almond milk until smooth.",
+          "Pour the smoothie mixture into a bowl.",
+          "Top with granola, chia seeds, and coconut flakes.",
+          "Serve immediately."
+        ],
+        "preparation_time": "5 minutes",
+        "cooking_time": "0 minutes",
+        "total_time": "5 minutes",
+        "difficulty": "Easy",
+        "serving_size": "1",
+        "nutritional_info": {
+          "calories": "250 kcal per serving",
+          "fat": "12g",
+          "carbohydrates": "30g",
+          "protein": "4g",
+          "fiber": "7g"
+        },
+        "allergens": ["Nuts"],
+        "tags": ["Vegan"]
+      },
+      {
+        "id": 805,
+        "name": "Overnight Oats",
+        "image": "https://example.com/images/overnight_oats.jpg",
+        "description": "A simple and healthy make-ahead breakfast of oats soaked in almond milk with chia seeds and honey.",
+        "ingredients": [
+          { "name": "Oats", "quantity": "1/2 cup", "description": "Rolled oats" },
+          { "name": "Almond milk", "quantity": "1/2 cup", "description": "Or any plant-based milk" },
+          { "name": "Chia seeds", "quantity": "1 tbsp", "description": "For added fiber" },
+          { "name": "Honey", "quantity": "1 tbsp", "description": "For sweetness" },
+          { "name": "Fresh fruit", "quantity": "1/2 cup", "description": "Optional, for topping" }
+        ],
+        "instructions": [
+          "Combine oats, almond milk, chia seeds, and honey in a jar or bowl.",
+          "Mix well, then cover and refrigerate overnight.",
+          "In the morning, top with fresh fruit and serve."
+        ],
+        "preparation_time": "5 minutes",
+        "cooking_time": "0 minutes",
+        "total_time": "5 minutes (overnight soak)",
+        "difficulty": "Easy",
+        "serving_size": "1",
+        "nutritional_info": {
+          "calories": "200 kcal per serving",
+          "fat": "8g",
+          "carbohydrates": "28g",
+          "protein": "6g",
+          "fiber": "6g"
+        },
+        "allergens": ["Nuts"],
+        "tags": ["Vegan", "Healthy"]
+      }
+    ]
+  }  
+]
+  
