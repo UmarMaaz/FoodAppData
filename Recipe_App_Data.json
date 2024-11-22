@@ -11,7 +11,7 @@
       {
         "id": 301,
         "name": "Chocolate Lava Cake",
-        "image": "https://example.com/images/chocolate_lava_cake.jpg",
+        "image": "https://i.postimg.cc/B69vLthZ/chocolate-lava-cake.jpg",
         "description": "A decadent molten chocolate dessert with a gooey center.",
         "ingredients": [
           {"name": "Dark chocolate", "quantity": "200g", "description": "Chopped"},
@@ -47,7 +47,7 @@
       {
         "id": 302,
         "name": "Classic Tiramisu",
-        "image": "https://example.com/images/classic_tiramisu.jpg",
+        "image": "https://i.postimg.cc/QtQdpsPQ/classic-tiramisu.jpg",
         "description": "A traditional Italian dessert with layers of coffee-soaked ladyfingers and mascarpone.",
         "ingredients": [
           {"name": "Ladyfingers", "quantity": "20", "description": "Store-bought or homemade"},
@@ -82,7 +82,7 @@
       {
         "id": 303,
         "name": "Vegan Brownies",
-        "image": "https://example.com/images/vegan_brownies.jpg",
+        "image": "https://i.postimg.cc/YSm9CQzy/vegan-brownies.jpg",
         "description": "Rich and fudgy brownies made without eggs or dairy.",
         "ingredients": [
           {"name": "All-purpose flour", "quantity": "1 cup", "description": "Sifted"},
@@ -117,7 +117,7 @@
       {
         "id": 304,
         "name": "Panna Cotta",
-        "image": "https://example.com/images/panna_cotta.jpg",
+        "image": "https://i.postimg.cc/sgLxzT7h/panna-cotta.jpg",
         "description": "Creamy Italian dessert served with a fruit topping.",
         "ingredients": [
           {"name": "Heavy cream", "quantity": "2 cups", "description": "Full-fat"},
@@ -195,7 +195,7 @@
       {
         "id": 401,
         "name": "Grilled Chicken Breast",
-        "image": "https://example.com/images/grilled_chicken_breast.jpg",
+        "image": "https://i.postimg.cc/5Nnj74tp/grilled-chicken-breast.jpg",
         "description": "Juicy and tender grilled chicken breast marinated with herbs and spices.",
         "ingredients": [
           {"name": "Chicken breasts", "quantity": "2", "description": "Boneless and skinless"},
@@ -229,7 +229,7 @@
       {
         "id": 402,
         "name": "Vegetarian Stir-Fry",
-        "image": "https://example.com/images/vegetarian_stir_fry.jpg",
+        "image": "https://i.postimg.cc/ZYLqnb6Z/vegetarian-stir-fry.jpg",
         "description": "A colorful and healthy stir-fry packed with fresh vegetables and a savory sauce.",
         "ingredients": [
           {"name": "Bell peppers", "quantity": "2", "description": "Chopped"},
@@ -263,7 +263,7 @@
       {
         "id": 403,
         "name": "Beef Steak with Garlic Butter",
-        "image": "https://example.com/images/beef_steak_with_garlic_butter.jpg",
+        "image": "https://i.postimg.cc/SQLn97FB/beef-steak-with-garlic-butter.jpg",
         "description": "Tender and juicy beef steak served with a rich garlic butter sauce.",
         "ingredients": [
           {"name": "Beef steaks", "quantity": "2", "description": "Ribeye or sirloin"},
@@ -297,7 +297,7 @@
       {
         "id": 404,
         "name": "Spaghetti Aglio e Olio",
-        "image": "https://example.com/images/spaghetti_aglio_olio.jpg",
+        "image": "https://i.postimg.cc/9FWrYRcr/spaghetti-aglio-olio.jpg",
         "description": "A classic Italian pasta dish with garlic, olive oil, and red pepper flakes.",
         "ingredients": [
           {"name": "Spaghetti", "quantity": "200g", "description": "Dry"},
@@ -331,7 +331,7 @@
       {
         "id": 405,
         "name": "Chicken Alfredo Pasta",
-        "image": "https://example.com/images/chicken_alfredo_pasta.jpg",
+        "image": "https://i.postimg.cc/ZnL0hZxb/chicken-alfredo-pasta.jpg",
         "description": "Creamy pasta with grilled chicken, rich Alfredo sauce, and parmesan cheese.",
         "ingredients": [
           {"name": "Penne pasta", "quantity": "200g", "description": "Dry"},
@@ -377,7 +377,7 @@
       {
         "id": 501,
         "name": "Cheese Nachos",
-        "image": "https://example.com/images/cheese_nachos.jpg",
+        "image": "https://i.postimg.cc/gcwWFG4N/cheese-nachos.jpg",
         "description": "Crispy nachos topped with melted cheese and served with salsa.",
         "ingredients": [
           {"name": "Tortilla chips", "quantity": "1 bag", "description": "Plain"},
@@ -409,7 +409,7 @@
       {
         "id": 502,
         "name": "Veggie Spring Rolls",
-        "image": "https://example.com/images/veggie_spring_rolls.jpg",
+        "image": "https://i.postimg.cc/wj4yvq83/veggie-spring-rolls.jpg",
         "description": "Crispy spring rolls stuffed with fresh vegetables.",
         "ingredients": [
           {"name": "Rice paper", "quantity": "6 sheets", "description": "For wrapping"},
@@ -442,7 +442,7 @@
       {
         "id": 503,
         "name": "Mini Quesadillas",
-        "image": "https://example.com/images/mini_quesadillas.jpg",
+        "image": "https://i.postimg.cc/zf9yCxfr/mini-quesadillas.jpg",
         "description": "Mini tortillas filled with cheese and served with salsa.",
         "ingredients": [
           {"name": "Flour tortillas", "quantity": "4", "description": "Small"},
@@ -473,7 +473,7 @@
       {
         "id": 504,
         "name": "Chicken Wings",
-        "image": "https://example.com/images/chicken_wings.jpg",
+        "image": "https://i.postimg.cc/RFKNXw3n/chicken-wings.jpg",
         "description": "Crispy chicken wings coated in a spicy sauce.",
         "ingredients": [
           {"name": "Chicken wings", "quantity": "10", "description": "Skinless"},
@@ -503,7 +503,7 @@
       {
         "id": 505,
         "name": "Fruit Salad",
-        "image": "https://example.com/images/fruit_salad.jpg",
+        "image": "https://i.postimg.cc/QMBBK2hm/fruit-salad.jpg",
         "description": "A fresh and colorful mix of seasonal fruits.",
         "ingredients": [
           {"name": "Apple", "quantity": "1", "description": "Chopped"},
@@ -545,7 +545,7 @@
       {
         "id": 601,
         "name": "Classic Lemonade",
-        "image": "https://example.com/images/classic_lemonade.jpg",
+        "image": "https://i.postimg.cc/yYP3MhLm/classic-lemonade.jpg",
         "description": "Refreshing homemade lemonade with a perfect balance of sweetness and tartness.",
         "ingredients": [
           {"name": "Lemons", "quantity": "4", "description": "Freshly squeezed"},
@@ -573,7 +573,7 @@
       {
         "id": 602,
         "name": "Iced Coffee",
-        "image": "https://example.com/images/iced_coffee.jpg",
+        "image": "https://i.postimg.cc/J0R4xvV9/Iced-Coffee.jpg",
         "description": "Chilled coffee served over ice, perfect for a summer day.",
         "ingredients": [
           {"name": "Coffee", "quantity": "1 cup", "description": "Brewed and cooled"},
@@ -601,7 +601,7 @@
       {
         "id": 603,
         "name": "Green Smoothie",
-        "image": "https://example.com/images/green_smoothie.jpg",
+        "image": "https://i.postimg.cc/BnnP48zd/green-smoothie.jpg",
         "description": "Healthy and delicious green smoothie packed with spinach and fruits.",
         "ingredients": [
           {"name": "Spinach", "quantity": "1 cup", "description": "Fresh"},
@@ -630,7 +630,7 @@
       {
         "id": 604,
         "name": "Hot Chocolate",
-        "image": "https://example.com/images/hot_chocolate.jpg",
+        "image": "https://i.postimg.cc/MHtZF5zX/Hot-Chocolate.jpg",
         "description": "Rich and creamy hot chocolate topped with whipped cream.",
         "ingredients": [
           {"name": "Milk", "quantity": "2 cups", "description": "Whole or 2%"},
@@ -660,7 +660,7 @@
       {
         "id": 605,
         "name": "Chamomile Tea",
-        "image": "https://example.com/images/chamomile_tea.jpg",
+        "image": "https://i.postimg.cc/VvPb8KyR/chamomile-tea.jpg",
         "description": "Relaxing herbal tea with a soothing aroma.",
         "ingredients": [
           {"name": "Chamomile tea bags", "quantity": "2", "description": "Or dried chamomile flowers"},
@@ -699,7 +699,7 @@
       {
         "id": 701,
         "name": "Grilled Salmon",
-        "image": "https://example.com/images/grilled_salmon.jpg",
+        "image": "https://i.postimg.cc/nL5DdH0N/grilled-salmon.jpg",
         "description": "Perfectly grilled salmon fillet with a tangy lemon-garlic marinade.",
         "ingredients": [
           {"name": "Salmon fillet", "quantity": "2", "description": "Skin-on, fresh"},
@@ -732,7 +732,7 @@
       {
         "id": 702,
         "name": "Shrimp Scampi",
-        "image": "https://example.com/images/shrimp_scampi.jpg",
+        "image": "https://i.postimg.cc/s21W9B9p/shrimp-scampi.jpg",
         "description": "Classic shrimp scampi cooked in a garlic butter and white wine sauce.",
         "ingredients": [
           {"name": "Shrimp", "quantity": "1 lb", "description": "Peeled and deveined"},
@@ -766,7 +766,7 @@
       {
         "id": 703,
         "name": "Fried Calamari",
-        "image": "https://example.com/images/fried_calamari.jpg",
+        "image": "https://i.postimg.cc/zBgR69Qv/fried-calamari.jpg",
         "description": "Crispy fried calamari served with a tangy marinara dipping sauce.",
         "ingredients": [
           {"name": "Calamari rings", "quantity": "1 lb", "description": "Fresh or thawed"},
@@ -799,7 +799,7 @@
       {
         "id": 704,
         "name": "Steamed Mussels",
-        "image": "https://example.com/images/steamed_mussels.jpg",
+        "image": "https://i.postimg.cc/gkq3Yb26/steamed-mussels.jpg",
         "description": "Fresh mussels steamed in a flavorful broth of garlic and white wine.",
         "ingredients": [
           {"name": "Mussels", "quantity": "2 lbs", "description": "Fresh, cleaned"},
@@ -844,7 +844,7 @@
       {
         "id": 801,
         "name": "Avocado Toast",
-        "image": "https://example.com/images/avocado_toast.jpg",
+        "image": "https://i.postimg.cc/4ypV7rvq/avocado-toast.jpg",
         "description": "Creamy avocado spread on toasted bread, topped with chili flakes and lime.",
         "ingredients": [
           { "name": "Bread slices", "quantity": "2", "description": "Whole grain recommended" },
@@ -877,7 +877,7 @@
       {
         "id": 802,
         "name": "Pancakes",
-        "image": "https://example.com/images/pancakes.jpg",
+        "image": "https://i.postimg.cc/MZByFQk5/pancakes.jpg",
         "description": "Fluffy and golden pancakes served with maple syrup and fresh berries.",
         "ingredients": [
           { "name": "Flour", "quantity": "1 cup", "description": "All-purpose" },
@@ -910,7 +910,7 @@
       {
         "id": 803,
         "name": "Breakfast Burrito",
-        "image": "https://example.com/images/breakfast_burrito.jpg",
+        "image": "https://i.postimg.cc/RFkw0Mtw/breakfast-burrito.jpg",
         "description": "A hearty burrito filled with eggs, cheese, and veggies.",
         "ingredients": [
           { "name": "Tortilla", "quantity": "1", "description": "Large" },
@@ -943,7 +943,7 @@
       {
         "id": 804,
         "name": "Smoothie Bowl",
-        "image": "https://example.com/images/smoothie_bowl.jpg",
+        "image": "https://i.postimg.cc/yYzF48sH/smoothie-bowl.jpg",
         "description": "A refreshing bowl of blended fruits and topped with granola, seeds, and coconut flakes.",
         "ingredients": [
           { "name": "Frozen berries", "quantity": "1 cup", "description": "Mixed, such as strawberries and blueberries" },
@@ -976,7 +976,7 @@
       {
         "id": 805,
         "name": "Overnight Oats",
-        "image": "https://example.com/images/overnight_oats.jpg",
+        "image": "https://i.postimg.cc/FHr3zCYC/overnight-oats.jpg",
         "description": "A simple and healthy make-ahead breakfast of oats soaked in almond milk with chia seeds and honey.",
         "ingredients": [
           { "name": "Oats", "quantity": "1/2 cup", "description": "Rolled oats" },
